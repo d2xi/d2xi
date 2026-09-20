@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React, SpringBoot
+🌱 Rebuilding my software development skills through hands-on projects.
 
-#### Connect and Code
-- [codingame.com](https://www.codingame.com/profile/6a3bbfb6a328dd9e9c63d24d1bfbe1259008015)
-- [exercism.org](https://exercism.org/profiles/d2xi)
+Currently exploring Linux, software deployment, automation, and the tooling around building and running applications.
 
 <!--
 **d2xi/d2xi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
